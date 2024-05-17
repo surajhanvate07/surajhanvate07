@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Just Dial for Service Web App with React
-- 🌱 I’m currently learning everything🤣
-- 🤔 I’m looking for help with MERN stack.
+- 🔭 I’m currently working as a Java Developer with over 3 Years of Experience
+- 🌱 I’m currently learning AWS and Cloud Technologies
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: twitter -linkedIn
 - 😄 Pronouns: He/His
