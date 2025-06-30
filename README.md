@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Java Developer with over 3 Years of Experience
+- 🔭 I’m currently working as a Java Developer with over 4.3 Years of Experience
 - 🌱 I’m currently learning AWS and Cloud Technologies
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: twitter -linkedIn
